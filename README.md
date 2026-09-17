@@ -211,3 +211,6 @@ Ship Simulator is offered as a **full free version** with all features and updat
 ---
 
 Take your maritime skills to the next level with **Ship Simulator**. Download now and start your adventure on the high seas!
+
+---
+**Last updated:** 2026-09-17 11:23:10 UTC
